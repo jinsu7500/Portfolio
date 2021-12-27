@@ -10,7 +10,7 @@
   + [(2019) 퍼즐게임 SemanticTravel 코딩 개발참여](#SemanticTravel)
   + [(2021) 3D 미로찾기게임 MazeGame 1인개발](#MazeGame)
   + [(2021) 3D 장애물 달리기게임 Shotgun 개발 팀리더](#ShotGun)
-  + (2021) 2D 실시간 협동 퍼즐게임 BreakFriendShip 개발 팀리더
+  + [(2021) 2D 실시간 협동 퍼즐게임 BreakFriendShip 개발 팀리더](#BreakFriendship)
 -----------------------------------------
 
 ## SemanticTravel
