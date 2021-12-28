@@ -6,7 +6,7 @@
 + 학력 | 공주대학교 컴퓨터공학부 컴퓨터공학전공
 + 개발이력
 
-  + [(2021) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)  
+  + [(2020) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)  
   
    <게임>
   + [(2019) 퍼즐게임 SemanticTravel 코딩 개발참여](#SemanticTravel)
