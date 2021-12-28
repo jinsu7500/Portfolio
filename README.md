@@ -7,7 +7,8 @@
 + 개발이력
 
   + [(2021) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)  
-  <게임>
+  
+   <게임>
   + [(2019) 퍼즐게임 SemanticTravel 코딩 개발참여](#SemanticTravel)
   + [(2021) 3D 미로찾기게임 MazeGame 1인개발](#MazeGame)
   + [(2021) 3D 장애물 달리기게임 Shotgun 개발 팀리더](#ShotGun)
