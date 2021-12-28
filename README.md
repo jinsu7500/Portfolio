@@ -6,16 +6,46 @@
 + 학력 | 공주대학교 컴퓨터공학부 컴퓨터공학전공
 + 개발이력
 
+  + [(2021) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)
   <게임>
   + [(2019) 퍼즐게임 SemanticTravel 코딩 개발참여](#SemanticTravel)
   + [(2021) 3D 미로찾기게임 MazeGame 1인개발](#MazeGame)
   + [(2021) 3D 장애물 달리기게임 Shotgun 개발 팀리더](#ShotGun)
   + [(2021) 2D 실시간 협동 퍼즐게임 BreakFriendShip 개발 팀리더](#BreakFriendShip)
 -----------------------------------------
+## ReminderCalendar
+### 프로젝트 소개
+알람을 설정해두면 정해진 시간에, 음악이 재생되는 웹 어플리케이션  
+
+### 개발방향
+다양한 정보를 한눈에 쉽게 알아볼 수 있도록, 가독성과 간결성을 중요시 하였다.  
+### 프로그램 기능  
++ 날짜 선택  
+![image](https://user-images.githubusercontent.com/56360477/135053390-9b9604a9-1ac7-4c7a-8713-72244e76be7a.png)  
+  
++ 달력출력  
+![image](https://user-images.githubusercontent.com/56360477/135053423-caf1a197-5e02-480b-86c3-43b489defde8.png)  
+
++ 일정 추가  
+![image](https://user-images.githubusercontent.com/56360477/135053458-9395e9a1-0867-4335-814e-1530bba6749a.png)  
+
++ 현재시간 및 오늘의 일정 출력  
+![image](https://user-images.githubusercontent.com/56360477/135053504-8d0f8ed9-924a-43a4-adac-a3ca679799b4.png)  
+
++ 알람설정  
+![image](https://user-images.githubusercontent.com/56360477/135053710-94b15e30-7885-4389-80f9-e201a76e4828.png)  
+
+
+### 실행화면  
+![image](https://user-images.githubusercontent.com/56360477/135053758-b4e01571-31c9-4ffa-8773-991091f3373b.png)  
+
+
+
+-----------------
 
 ## SemanticTravel
 
-프로젝트 소개
+### 프로젝트 소개
 Unity를 활용하여 2D 모바일 점프게임이다. 플레이어는 여러 블럭들을 통과하여 상위 스테이지로 향해야 한다.
 
 * 개발버전 Unity3d 2019.2.6f1
