@@ -5,7 +5,7 @@
 + 나이 | 1997년생
 + 학력 | 공주대학교 컴퓨터공학부 컴퓨터공학전공
 + 개발이력
-
+  + [(2019) MobileKiosk 개발] (#MobileKiosk)
   + [(2020) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)  
   
    <게임>
@@ -43,6 +43,10 @@
 
 
 -----------------
+
+## MobileKiosk
+
+----------------
 
 ## SemanticTravel
 
