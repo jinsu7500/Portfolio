@@ -5,7 +5,7 @@
 + 나이 | 1997년생
 + 학력 | 공주대학교 컴퓨터공학부 컴퓨터공학전공
 + 개발이력
-  + [(2019) MobileKiosk 개발] (#MobileKiosk)
+  + [(2019) MobileKiosk 개발](#MobileKiosk)
   + [(2020) Reminder Calendar 개발 - JavaScript](#ReminderCalendar)  
   
    <게임>
@@ -96,7 +96,7 @@ Unity를 활용하여 여러 종류 게임을 개발해보았지만, 한 번도 
   - 무인 메뉴 주문 APP은 영업 시간내에 무인으로 구동되어야 하므로, 관리자가 기기를 종료하기 전까지 반복적으로 작동해야 한다.
 
 
-## 프로그램 설계
+### 프로그램 설계
 + 화면 및 레이아웃 구상안  
 
 ![image](https://user-images.githubusercontent.com/56360477/149921763-9023ede1-1e8b-4b53-97f9-5fbbf3a276dd.png)  
